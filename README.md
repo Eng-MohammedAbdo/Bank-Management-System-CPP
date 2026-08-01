@@ -23,6 +23,7 @@ This repository has evolved through three distinct development phases, each addi
 - [⚙️ Bitwise Permission System](#️-bitwise-permission-system)
 - [🖥️ Application Interfaces & Navigation Flow](#️-application-interfaces--navigation-flow)
 - [💻 System Requirements & Build Guide](#-system-requirements--build-guide)
+- [📄 License & Credits](#-license--credits)
 
 ---
 
