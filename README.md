@@ -88,7 +88,7 @@ Adds user roles, authentication, and security protections to control menu intera
 ## 📁 Project Directory Structure
 
 ```text
-Bank-Management-System-CPP/
+Bank-Management-System/
 │
 ├── bank_project.cpp         # Main C++ application source code
 ├── Clients.txt              # Delimiter-separated client database file
